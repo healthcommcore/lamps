@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+		xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+	<url name="Home">
+		<loc>http://lamps.sph.harvard.edu</loc>
+	</url>
+	<url name="What is LAMPS">
+		<loc>http://lamps.sph.harvard.edu/index.php/what-is-lamps</loc>
+		<image:image>
+			<image:loc>http://lamps.sph.harvard.edu/images/stories/cycle_graphic3.png</image:loc>
+		</image:image>
+	</url>
+	<url name="Projects">
+		<loc>http://lamps.sph.harvard.edu/index.php/projects</loc>
+	</url>
+	<url name="PHEP Systems Improvement">
+		<loc>http://lamps.sph.harvard.edu/index.php/projects/phep-systems-improvement</loc>
+	</url>
+	<url name="Engineering Systems and Analysis">
+		<loc>http://lamps.sph.harvard.edu/index.php/projects/engineering-systems-and-analysis</loc>
+	</url>
+	<url name="PHEP Communications">
+		<loc>http://lamps.sph.harvard.edu/index.php/projects/phep-communications</loc>
+	</url>
+	<url name="PHEP Drills and Exercises">
+		<loc>http://lamps.sph.harvard.edu/index.php/projects/phep-drills-and-exercises</loc>
+	</url>
+	<url name="LAMPS tools">
+		<loc>http://lamps.sph.harvard.edu/index.php/tools</loc>
+	</url>
+	<url name="LAMPS resources">
+		<loc>http://lamps.sph.harvard.edu/index.php/resources</loc>
+	</url>
+	<url name="People">
+		<loc>http://lamps.sph.harvard.edu/index.php/people</loc>
+	</url>
+	<url name="Investigators">
+		<loc>http://lamps.sph.harvard.edu/index.php/people/investigators</loc>
+	</url>
+	<url name="Fellows/RAs/Students">
+		<loc>http://lamps.sph.harvard.edu/index.php/people/fellowsrasstudents</loc>
+	</url>
+	<url name="Staff">
+		<loc>http://lamps.sph.harvard.edu/index.php/people/staff</loc>
+	</url>
+	<url name="Advisory Committee">
+		<loc>http://lamps.sph.harvard.edu/index.php/people/advisory-committee</loc>
+	</url>
+	<url name="K. Vish Viswanath, PhD">
+		<loc>http://lamps.sph.harvard.edu/index.php/people/investigators/27Itemid=19</loc>
+	</url>
+	<url name="Michael A. Stoto, PhD">
+		<loc>http://lamps.sph.harvard.edu/index.php/people/investigators/25Itemid=19</loc>
+	</url>
+	<url name="Marcia Testa, PhD, MPH">
+		<loc>http://lamps.sph.harvard.edu/index.php/people/investigators/26Itemid=19</loc>
+	</url>
+	<url name="Elena Savoia, MD, MPH">
+		<loc>http://lamps.sph.harvard.edu/index.php/people/investigators/24Itemid=19</loc>
+	</url>
+	<url name="Harold Cox, MSSW">
+		<loc>http://lamps.sph.harvard.edu/index.php/people/investigators/20</loc>
+	</url>
+	<url name="Don Goldmann, MD">
+		<loc>http://lamps.sph.harvard.edu/index.php/people/investigators/22</loc>
+	</url>
+	<url name="Stan N. Finkelstein, MD">
+		<loc>http://lamps.sph.harvard.edu/index.php/people/investigators/21</loc>
+	</url>
+	<url name="Richard Larson, PhD">
+		<loc>http://lamps.sph.harvard.edu/index.php/people/investigators/23</loc>
+	</url>
+	<url name="Paul Biddinger, MD">
+		<loc>http://lamps.sph.harvard.edu/index.php/people/investigators/19</loc>
+	</url>
+	<url name="Links">
+		<loc>http://lamps.sph.harvard.edu/index.php/links</loc>
+	</url>
+	<url name="CDC-funded Preparedness and Emergency Response Research Centers (PERCCS)">
+		<loc>http://lamps.sph.harvard.edu/index.php/links/cdc-funded-preparedness-and-emergency-response-research-centers-perccs</loc>
+	</url>
+	<url name="Contact">
+		<loc>http://lamps.sph.harvard.edu/index.php/contact</loc>
+	</url>
+</urlset>
+	
