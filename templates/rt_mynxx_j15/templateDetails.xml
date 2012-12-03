@@ -62,6 +62,7 @@
 		<position>advertisement</position>
 		<position>logo</position>
 		<position>search</position>
+		<position>topmenu</position>
 		<position>toolbar</position>
 		<position>login</position>
 		<position>newsflash</position>

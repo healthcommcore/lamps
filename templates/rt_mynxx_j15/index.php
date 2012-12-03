@@ -123,13 +123,7 @@ $body_style       = $this->params->get("bodyStyle", "dark");
 					<?php endif; ?>
 					</div>
 					<?php endif; ?>-->
-                    <?php if ($this->countModules('search')) : ?>
-					<div class="search">
-						<jdoc:include type="modules" name="search" style="xhtml" />
-					</div>
-					<?php endif; ?>
-                    <div class="clr"></div>
-                    <?php if ($show_textsizer=="true") : ?>
+					<?php if ($show_textsizer=="true") : ?>
 							<div id="accessibility">
 								<div id="buttons">
 									<a href="<?php echo JROUTE::_($thisurl . "fontstyle=f-larger"); ?>" title="<?php echo JText::_('INC_FONT_SIZE'); ?>" class="large"><span class="button">&nbsp;</span></a>
@@ -139,6 +133,18 @@ $body_style       = $this->params->get("bodyStyle", "dark");
 							</div>
 							<?php endif; ?>
 					
+                    <?php if ($this->countModules('search')) : ?>
+					<div class="search">
+						<jdoc:include type="modules" name="search" style="xhtml" />
+					</div>
+					<?php endif; ?>
+                    <div class="clr"></div>
+                    
+				<?php if($this->countModules('topmenu')): ?>
+					<div id="topmenu">
+						<jdoc:include type="modules" name="topmenu" style="xhtml" />
+					</div>
+				<?php endif; ?>
 				</div>
 			</div>
 			<!--End Header-->
